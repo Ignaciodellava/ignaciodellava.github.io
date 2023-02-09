@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
-<h3 align="center">BI & Big Data Engineer | Data Science</h3>
+<h1 align="center">Hi 👋, I'm Ignacio De Llano Varela</h1>
+<h3 align="center"> Biomedical Engineer Student </h3>
 
-- 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
-- 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
-- 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
+- 🔭 I’m currently studying at **Universidad Europea** as Assistant Professor
+- 🔭 I’m currently a member of **CEEIBIS**
+- 🌱 I’m currently directing the **Investigation team of Eu2space proyect**
 
-- 👨‍💻 Some of my fun projects are available at [https://sukuzhanay.me/]
 
-- 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
 
-- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
-
-- 📫 How to reach me **sukuzhanay@gmail.com**
+- 📫 How to reach me **ignaciodellavay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
